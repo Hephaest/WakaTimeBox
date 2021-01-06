@@ -1,4 +1,4 @@
-name: "waka-box"
+name: "WakaTimeBox"
 description: "Update a pinned gist to contain WakaTime stats"
 branding:
   icon: "clipboard"
