@@ -1,12 +1,21 @@
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/4658208/60469862-2e40bf00-9c2c-11e9-87f7-afe164648de4.png">
-  <h3 align="center">waka-box</h3>
+  <img width="400" src="https://user-images.githubusercontent.com/37981444/103744014-e2559f80-4fb1-11eb-963e-6a4b5b219deb.png">
+  <h3 align="center">WakaTimeBox</h3>
   <p align="center">Update a pinned gist to contain your weekly WakaTime stats</p>
 </p>
 
 ---
 
 > 📌✨ For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
+
+## Special Thanks
+
+This repo is cloned from [waka-box](https://github.com/matchai/waka-box), and I only made some improvements.
+
+## What's New
+
+- Update dependency `axios` to `0.21.1`.
+- Fix the bug from language layout.
 
 ## Setup
 
