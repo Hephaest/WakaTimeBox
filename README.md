@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/37981444/103776754-c4556280-4fe4-11eb-98da-7ed25df2d088.png">
+  <img width="400" src="https://user-images.githubusercontent.com/37981444/104082803-e53cd400-51ed-11eb-8dc3-30cfdc3e194c.png">
   <h3 align="center">WakaTimeBox</h3>
   <p align="center">Update a pinned gist to contain your weekly WakaTime stats</p>
 </p>
